@@ -1,0 +1,30 @@
+body {
+    background-color: #55ACEE;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.box {
+    padding: 20px;
+}
+
+.transparent-bg {
+    background-color: rgba(0, 0, 0, 0.01);
+}
+
+.btn-outline {
+    border: 2px solid white !important;
+}
+
+.text-white {
+    color: white;
+}
+
+.btn {
+    margin: 10px auto;
+}
